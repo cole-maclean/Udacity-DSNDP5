@@ -1,0 +1,23 @@
+Feature,Data Count,Count PoI
+name,146,18
+salary,95,17
+to_messages,86,14
+deferral_payments,39,5
+total_payments,125,18
+exercised_stock_options,102,12
+bonus,82,16
+restricted_stock,110,17
+shared_receipt_with_poi,86,14
+restricted_stock_deferred,18,0
+total_stock_value,126,18
+expenses,95,18
+loan_advances,4,1
+from_messages,86,14
+other,93,18
+from_this_person_to_poi,86,14
+poi,146,18
+director_fees,17,0
+deferred_income,49,11
+long_term_incentive,66,12
+email_address,111,18
+from_poi_to_this_person,86,14
